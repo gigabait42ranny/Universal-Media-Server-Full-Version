@@ -241,4 +241,4 @@ This repository serves as the official landing page for Universal Media Server. 
 **Get the most recent version of Universal Media Server today!**
 
 ---
-**Last updated:** 2026-10-31 22:18:44 UTC
+**Last updated:** 2026-11-01 01:44:55 UTC
